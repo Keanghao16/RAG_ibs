@@ -1,0 +1,23 @@
+# Environment variables (contains API keys)
+.env
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# FAISS index (large binary files, regenerate from data)
+faiss_store/
+
+# Jupyter
+.ipynb_checkpoints/
+notebook/.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
