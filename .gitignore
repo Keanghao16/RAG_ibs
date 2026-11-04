@@ -11,6 +11,9 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Local vector store databases (ChromaDB)
+vector_store/
+
 # FAISS index (large binary files, regenerate from data)
 faiss_store/
 
