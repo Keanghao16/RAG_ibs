@@ -10,3 +10,4 @@ chromadb
 langchain-groq
 python-dotenv
 python-telegram-bot
+rank-bm25
